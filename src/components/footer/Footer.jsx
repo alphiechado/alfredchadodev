@@ -31,7 +31,6 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/alfredchado/"
             className="footer__social-link"
-            target="_blank"
           >
             <i className="bx bxl-linkedin"></i>
           </a>
@@ -39,7 +38,6 @@ const Footer = () => {
           <a
             href="https://twitter.com/chadowofficial"
             className="footer__social-link"
-            target="_blank"
           >
             <i className="bx bxl-twitter"></i>
           </a>
@@ -47,7 +45,6 @@ const Footer = () => {
           <a
             href="https://github.com/alphiechado"
             className="footer__social-link"
-            target="_blank"
           >
             <i className="bx bxl-github"></i>
           </a>
